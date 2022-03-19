@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am an RA with [Prof. Meghna Agarwala](https://www.ashoka.edu.in/profile/meghna-agarwala-3/) at Ashoka University.
 
 <!--
 **azadecon/azadecon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
