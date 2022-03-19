@@ -7,13 +7,14 @@ description: "The personal writings and expressions of Grayfox, otherwise known 
   src="/images/grayf0x.jpg"
   alt="A foxy face">
 
-## Welcome, friend
+## Hello, there
 
 ### :purple_heart: :earth_africa: :purple_heart:
 
-Born in [The Abyss](https://en.wikipedia.org/wiki/Edmonton), **Grayfox** - also known as Zerkle Snorp - has spent over two decades fiddling with things on the Internet. Today he does nothing, so stop asking.
+I am an economist in making. I am working with [Prof. Meghna Agarwala](https://www.ashoka.edu.in/profile/meghna-agarwala-3/) at Ashoka University on the Project **Determinants of Crop Residue Burning.**. 
 
-Their greatest joys are darkness and its quietudes.
+A MSc graduate from [IGIDR, Mumbai](http://www.igidr.ac.in/) and BA() from [Hindu Collge](https://hinducollege.ac.in/), [University of Delhi](http://www.du.ac.in/).
+
 
 <img src="/images/partywizard.gif">
 
