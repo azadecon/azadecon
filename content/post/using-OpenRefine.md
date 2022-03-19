@@ -1,7 +1,8 @@
 ---
-title: using OpenRefine
-author: Open Source
-date: '2022-03-19'
+title: "Using OpenRefine"
+date: 2022-03-19T10:58:07+05:30
+draft: false
+author: Arshad
 categories:
   - Example
   - Tools
