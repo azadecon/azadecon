@@ -12,7 +12,7 @@ tags:
 
 # Problem(s) at hand
 
-The survey data I was cleaning has responses which were not systematic and required interpretation. It contained spelling mistakes, has non-meaningful characters and data was simply not [tidy](https://r4ds.had.co.nz/tidy-data.html).
+The survey data I was cleaning had responses which were not systematic and required interpretation. It contained spelling mistakes, had non-meaningful characters and data was simply not [tidy](https://r4ds.had.co.nz/tidy-data.html).
 
 ## Resources
 1. [The Carpentries](https://librarycarpentry.org/lc-open-refine/) have provided an amazing introduction to OpenRefine install and use OpenRefine.
