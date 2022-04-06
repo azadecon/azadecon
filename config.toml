@@ -36,7 +36,7 @@ url = "/tags/"
 weight = 2
 [[menu.main]]
 name = "cv"
-url = "https://github.com/azadecon/azadecon.github.io/raw/main/cv.pdf"
+url = "https://azadecon.github.io/cv.pdf"
 weight = 3
 [[menu.feed]]
 name = "Subscribe"
