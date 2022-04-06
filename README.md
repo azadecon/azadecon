@@ -3,7 +3,7 @@
 I am `Arshad Azad`.
 I am an RA with [Prof. Meghna Agarwala](https://www.ashoka.edu.in/profile/meghna-agarwala-3/) at Ashoka University.
 
-Check out my [website](azadecon.github.io) or you could reach me [here](mailto:azadecon@gmail.com).
+Check out my [website](https://azadecon.github.io) or you could reach me [here](mailto:azadecon@gmail.com).
 
 [This](https://gist.github.com/bbdaniels/246867d78f07db5b2baecd0d8a22ef1a) is something I found interesting.
 
