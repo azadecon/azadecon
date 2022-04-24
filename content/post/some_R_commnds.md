@@ -8,6 +8,8 @@ author: Arshad
 
 ## Counting the occurance of individuals values in a variable.
 
-`df_merged_labour %>% select(xss) %>% group_by(xss) %>% count()`
+```{r}
+df_merged_labour %>% select(xss) %>% group_by(xss) %>% count()
+```
 
 ## 
