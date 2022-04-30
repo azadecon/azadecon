@@ -12,4 +12,9 @@ author: Arshad
 df_merged_labour %>% select(xss) %>% group_by(xss) %>% count()
 ```
 
-## 
+## convert a vector into comma separated character vector
+
+```{r}
+rs <- paste("\"",as.character(vector),"\"",collapse=", ",sep="")
+cat(rs)
+```
