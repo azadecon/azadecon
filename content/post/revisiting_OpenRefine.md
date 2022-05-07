@@ -19,8 +19,8 @@ The survey data had responses which were not systematic and required interpretat
 **[Library carpentry](https://librarycarpentry.org/lc-open-refine/)** provides an excellent guide to install and to get a basic training on OpenRefine. 
 
 
-## Additional comments to install OpenRefine
-1. Downalod tar.giz from the website (or from the projeect zip)
+## Additional comments to install OpenRefine (on Linux)
+1. Downalod tar.giz from the **[OpenRefine website](https://openrefine.org/download.html)**
 2. Install JAVA by `sudo apt install default-jre`
 3. Extract OpenRefine.xxx.tar.giz into a folder and run `./refine` from the OpenRefine folder.
 
@@ -35,7 +35,7 @@ Example: `Aapke paas kya bank khata hai?` ==> `Haan`; `ModiWala`; `Free wala`; `
 1. Try to extract maximum information possible while translating. Do not assume anything, do not infer more than what is provided. Do not take decisions at the stage of translation. At times it is tempting to infer a particular meaning of the responses but this should be avoided. Let such decision be left for the stage of analysis. For now only only a minimal change in the meaning should be employed.
 
 
-1. Most common and useful features are going to be text-facet, text-filter, cluster, merge, edit cells, transform. Sometimes in that particular order.
+1. Most common and useful features are going to be "text-facet", "text-filter", "cluster", "merge", "edit cells", "transform". Sometimes in that particular order.
 
 1. The most used snippet of code used is `value.replace("old_value", "new_value")`. For example, if you have values `school` among others and you want to replace them with `india`. You can do so by using value.replace("school", "india"). Now if you have values `schooling` and `school` among others and you want to replace both of them with `india` and if you replace `school` first then you are going to be left with `india` and `indiaing`. Why? Order matters here. To execute a sensible replacement, it is better to follow a non-conflicting order. You should replace `schooling` first, followed by `school`. This principle makes sense with R as well. `Value replacemt` also works subsequently. The above replacement can be carried out as follows: `value.replace("schooling", "india").replace("school", "india")`
 
@@ -54,7 +54,7 @@ Example: `Aapke paas kya bank khata hai?` ==> `Haan`; `ModiWala`; `Free wala`; `
 
 1. Since OpenRefine uses (default) browser interface, it is advisable to use a separate one so that you do not clutter your workspace. 
 
-2. Also, do not kill the background OpenRefine process (terminal window) that might lead to data loss.
+2. Also, do not kill the background OpenRefine process (the terminal window). It might lead to data loss.
 
 3. Additionally, it helps to increase the maximum heap size from the default one. On an 8 GB machine, 3-4 GB is ideal. 
 
