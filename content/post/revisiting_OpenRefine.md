@@ -9,6 +9,8 @@ author: Arshad
 
 ## What is OpenRefine and why use it:
 
+(A detailed multi-part post series is to follow this summary post.)
+
 
 When it comes to data, they come in various shapes and sizes. One special case is of cleaning textual data. Though it does not have to be qualitative in the likes of interviews which are detailed and is not within the scope of the tool used here. OpenRefine could be useful to clean data that has some structure, as in they are columnar. But within this restriction, they are somewhat messy. 
 
@@ -56,7 +58,7 @@ Example: `Aapke paas kya bank khata hai?` ==> `Haan`; `ModiWala`; `Free wala`; `
 
 3. Additionally, it helps to increase the maximum heap size from the default one. On an 8 GB machine, 3-4 GB is ideal. 
 
-4. Some raw datafiles (section 3 in particular) are quite big and it would take a lot time to process each modifications. Which leads to slow data cleaning. It is advisable to load only a small portion of raw data. (Tip by Meghna)
+4. Big raw datafiles would take a lot time to process each modifications. Which leads to slow data cleaning. It is advisable to load only a small portion of raw data.
 
 
 
