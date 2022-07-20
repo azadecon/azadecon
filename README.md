@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am `Arshad Azad`.
-I have been an RA with [Prof. Meghna Agarwala](https://www.ashoka.edu.in/profile/meghna-agarwala-3/) at Ashoka University.
+I am `Arshad Azad`. I am a Project Associate at [CEGIS](cegis.org).
+Previously, have been an RA with [Prof. Meghna Agarwala](https://www.ashoka.edu.in/profile/meghna-agarwala-3/) at Ashoka University.
 
 Check out my [website](https://azadecon.github.io) or you could reach me [here](mailto:azadecon@gmail.com).
 
