@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am `Arshad Azad`. I am a Project Associate at [CEGIS](https://www.cegis.org).
+I am `Arshad Azad`. I am a Program Associate at [CEGIS](https://www.cegis.org).
 
 
 Previously, have been an RA with [Prof. Meghna Agarwala](https://www.ashoka.edu.in/profile/meghna-agarwala-3/) at Ashoka University.
