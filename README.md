@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am `Arshad Azad`. I am a Program Associate at [CEGIS](https://api.cegis.org/arshad-azad).
+I am `Arshad Azad`. I have been a Program Associate with the _Strategic Public Finance_ team at [CEGIS](https://api.cegis.org/arshad-azad).
 
 
 Previously, have been an RA with [Prof. Meghna Agarwala](https://www.ashoka.edu.in/profile/meghna-agarwala-3/) at Ashoka University.
