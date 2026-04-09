@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am `Arshad Azad`, a PreDoc at [DDL](https://www.devdatalab.org/team).
+I am interested in Local Public Finance. 
 
 Previously, I have been a Program Associate with the _Strategic Public Finance_ team at [CEGIS](https://api.cegis.org/arshad-azad). I have also worked as an RA with [Prof. Meghna Agarwala](https://www.ashoka.edu.in/profile/meghna-agarwala-3/) at Ashoka University.
 
